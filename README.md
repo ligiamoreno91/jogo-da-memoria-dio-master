@@ -8,6 +8,7 @@ Esse é o repositório da aula de Javascript, na qual fizemos um jogo da memóri
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+* [Jogue Aqui!](https://ligiamoreno91.github.io/jogo-da-memoria-dio-master/)
 
 
 ## 🚀 Let's code! 🚀
